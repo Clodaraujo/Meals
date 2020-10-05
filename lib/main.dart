@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.cyan,
         accentColor: Colors.amber,
         fontFamily: 'Raleway',
-        canvasColor: Color.fromRGBO(255, 254, 229, 200),
+        canvasColor: Color.fromRGBO(255, 254, 229, 30),
         textTheme: ThemeData().textTheme.copyWith(
               headline6: TextStyle(
                 fontSize: 20,
